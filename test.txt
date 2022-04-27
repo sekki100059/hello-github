@@ -1,30 +1,3 @@
-aaaa
-aaaaaaaaaaaaaaaaaaaa
-this is pen
-this is pen
-sekine
-this is pen
-ppppppppp
-ooooo
-
-this is pen
-this is pen
-this is pen
-this is pen
-this is pen
-this is pen
-this is pen
-this is pen
-this is pen
-this is pen
-this is pen
-this is pen
-this is pen
-this is pen
-this is pen
-morinaga
-this is pen
-this is pen
-this is pen
-this is pen
-this is pen
+最初の1行目
+次の2行目
+次の3行目
